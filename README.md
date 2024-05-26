@@ -3,6 +3,6 @@ rm -rf Hamayoon
 
 git clone https://github.com/JanHamayoon/Hamayoon-.git
 
-sdcard Hamayoon 
+cd Hamayoon 
 
 python JAN.py
